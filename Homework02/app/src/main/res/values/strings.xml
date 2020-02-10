@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Homework02</string>
+    <string name="btn_checkout">Checkout</string>
+    <string name="btn_topping">Add Topping</string>
+    <string name="btn_clear">Clear Pizza</string>
+    <string name="delivery_check">Delivery</string>
+    <string name="order_head">Your Order</string>
+    <string name="order_base1">Base Price:</string>
+    <string name="order_base2">$6.50</string>
+    <string name="order_topping1">Toppings:</string>
+    <string name="order_topping2" />
+    <string name="order_topping3">temp</string>
+    <string name="order_delivery1">Delivery Cost:</string>
+    <string name="order_delivery2" />
+    <string name="order_total1"><u>TOTAL:</u></string>
+    <string name="order_total2"><u></u></string>
+    <string name="btn_finish">Finish</string>
+</resources>
